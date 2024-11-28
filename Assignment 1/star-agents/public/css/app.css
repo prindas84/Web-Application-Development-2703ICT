@@ -1,0 +1,87 @@
+.montserrat-heading {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+#menu-logo {
+    max-width: 250px;
+}
+
+#header-menu {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.banner-container {
+    border-top: 2px solid #2f2f2f;
+    border-bottom: 2px solid #2f2f2f;
+}
+
+.page-header {
+    text-align: center;
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+.page-header h2 {
+    font-size: 40px;
+}
+
+.profile-avatar {
+    width: 30%;
+    float: right;
+    margin-right: 7%;
+    border-radius: 10px;
+}
+
+.profile-content {
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+.page-content, .review-section {
+    margin-bottom: 80px;
+}
+
+.delete-agency {
+    border: none; 
+    background: none;
+    text-align: center;
+}
+
+.delete-agency img {
+    width: 20px; 
+    height: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+.form-group label {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.review-header {
+    border-top: 1px solid #2f2f2f;
+}
+
+.review-header h2 {
+    margin-top: 20px;
+}
+
+.review-listings {
+    margin-bottom: 40px;
+}
+
+.delete-agent {
+    margin-top: 15px;
+}
+
+#orderForm {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+

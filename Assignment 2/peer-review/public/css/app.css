@@ -1,0 +1,102 @@
+.montserrat-heading {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+#menu-logo {
+    max-width: 250px;
+}
+
+#header-menu {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.banner-container {
+    border-top: 2px solid #2f2f2f;
+    border-bottom: 2px solid #2f2f2f;
+}
+
+.page-header {
+    text-align: center;
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+.page-header h2 {
+    font-size: 40px;
+}
+
+.footer-space {
+    margin-bottom: 60px;
+}
+
+.auth-form-button {
+    background-color: #353535;
+    border-radius: 5px;
+}
+
+.success_message {
+    background: #3ca63c;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.header-menu {
+    margin-top: 10px;
+}
+
+.header-text {
+    font-size: 12px;
+    padding-right: 8px;
+    padding-top: 15px;
+    margin-bottom: -20px;
+}
+
+.table-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.table-link:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+select:focus {
+    border-color: inherit !important;
+    box-shadow: none !important;
+}
+
+button.accordion-button.collapsed {
+    background-color: #ffeea7;
+}
+
+.alert ul {
+    margin-bottom: 0px !important;
+}
+
+.teacher-notification {
+    background-color: #cfe2ff;
+    border-radius: 5px;
+    border: 1px solid #dee2e6;
+}
+
+.register-error li {
+    margin-left: 20px;;
+}
+
+.pagination .page-link {
+    color: #000000;;
+    border-color: #000000;
+}
+
+.pagination .page-link:hover,
+.pagination .page-item.active .page-link {
+    background-color: #e2e3e5;
+    color: #000000;
+    border-color: #000000;
+}
